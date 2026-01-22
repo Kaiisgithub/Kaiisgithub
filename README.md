@@ -27,7 +27,4 @@ I specialize in building automated pipelines, cleaning messy real-world data, an
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kaiisgithub&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kaiisgithub&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiisgithub&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
