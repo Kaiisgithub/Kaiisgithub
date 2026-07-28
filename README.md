@@ -1,10 +1,10 @@
 # About Me:
-Hi there, I'm **Kai** 👋
+Hi there, I'm **Kai** 
 
-I am currently a **Junior Software Developer**.
+I am a **Computer Science Intern Graduate**, currently a **Junior Software Developer**.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mau-kai-hing/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kkaiuseforwork@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mau-kai-hing/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kkaiuseforwork@gmail.com)
 
 ---
 
